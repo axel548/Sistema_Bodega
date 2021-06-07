@@ -1,0 +1,55 @@
+Todo el proyecto:
+		Perfiles de usuario
+		Regiones, comentarios
+		Variables
+		Load
+		Botones
+		Data
+		CRUD
+		Métodos
+
+1) carga- timer
+
+4) Principal - redimensionamiento
+
+5) Inventario - Instrucciones-ayuda, enabled en codigo, categorias,
+		estados, precio-permite simbolos E(./,), Errores 
+		y mensaje
+
+6) Usuario - Instrucciones-ayuda, foco,	correo, simbolos en usuario,
+		busqueda, refresh de los botones, errores y mensaje
+		y quitarlos
+
+7) Prestamos - centrar showdialogs , Instrucciones-ayuda
+	      	SelecInventario: arreglar el boton de cierre y mensaje,
+		SelecEstudiante: antierrores, nombre: 15%%, carne:%&#$ y convertir en mayusculas,
+				apellido 15%%, combobox, mostrar después de guardar, modificar, buscar.
+		SelectProfesor: antierrores, nombre y apellido : 15%%, DPI: AABB%%,
+		cantidad y devolución, 
+
+
+
+
+
+
+
+
+
+LINKS:
+	https://www.google.com/search?client=firefox-b-d&q=tabcontrol
+https://www.boostyourrussian.com/irregular-verbs-fb/?fbclid=IwAR3JdO20bC9ZF54qhKdfbQpEDI86pb8sEkgc9nJ4fbI6bpyAFsvlQhuap7c
+http://www.facialix.com/aprende-python/desafiando-a-la-naturaleza-una-raspberry-pi-hecha-a-base-de-bacterias/?fbclid=IwAR1_JEhDQutwTrvKfePBQ9iy4dH045pTvuA2M95-lmoobUFnUlrrTzGbhGo
+
+
+http://www.forosdelweb.com/f29/partir-dividir-string-visual-basic-net-1013234/
+
+DIM caden as string = "HOLA-SOY-NUEVO"
+Dim ArrCadena as string() = caden.Split("-")
+print ArrCadena(0) 'HOLA
+print ArrCadena(1) 'SOY
+print ArrCadena(2) 'NUEVO
+
+https://www.youtube.com/results?search_query=red+e+internet+con+visual+basic
+https://www.youtube.com/watch?v=sWSGh948KvQ    -RENDIMENSIONAMIENTO	
+https://es.wikipedia.org/wiki/Planeta_enano	
+https://shippuden.tv/boruto-manga-1-espanol.html

@@ -1,0 +1,961 @@
+﻿<?xml version="1.0"?>
+<doc>
+<assembly>
+<name>
+IES
+</name>
+</assembly>
+<members>
+<member name="T:IES.My.Resources.Resources">
+<summary>
+  Clase de recurso fuertemente tipado, para buscar cadenas traducidas, etc.
+</summary>
+</member>
+<member name="P:IES.My.Resources.Resources.ResourceManager">
+<summary>
+  Devuelve la instancia de ResourceManager almacenada en caché utilizada por esta clase.
+</summary>
+</member>
+<member name="P:IES.My.Resources.Resources.Culture">
+<summary>
+  Reemplaza la propiedad CurrentUICulture del subproceso actual para todas las
+  búsquedas de recursos mediante esta clase de recurso fuertemente tipado.
+</summary>
+</member>
+<member name="P:IES.My.Resources.Resources.original">
+<summary>
+  Busca un recurso adaptado de tipo System.Drawing.Bitmap.
+</summary>
+</member>
+<member name="T:IES.BodegaDataSet">
+<summary>
+Represents a strongly typed in-memory cache of data.
+</summary>
+</member>
+<member name="T:IES.BodegaDataSet.CorreoElectronicoDataTable">
+<summary>
+Represents the strongly named DataTable class.
+</summary>
+</member>
+<member name="T:IES.BodegaDataSet.est_pres_estDataTable">
+<summary>
+Represents the strongly named DataTable class.
+</summary>
+</member>
+<member name="T:IES.BodegaDataSet.est_pres_proDataTable">
+<summary>
+Represents the strongly named DataTable class.
+</summary>
+</member>
+<member name="T:IES.BodegaDataSet.estado_invAcDataTable">
+<summary>
+Represents the strongly named DataTable class.
+</summary>
+</member>
+<member name="T:IES.BodegaDataSet.estado_invMEDataTable">
+<summary>
+Represents the strongly named DataTable class.
+</summary>
+</member>
+<member name="T:IES.BodegaDataSet.estado_invReDataTable">
+<summary>
+Represents the strongly named DataTable class.
+</summary>
+</member>
+<member name="T:IES.BodegaDataSet.estadoAnualDataTable">
+<summary>
+Represents the strongly named DataTable class.
+</summary>
+</member>
+<member name="T:IES.BodegaDataSet.estudianteDataTable">
+<summary>
+Represents the strongly named DataTable class.
+</summary>
+</member>
+<member name="T:IES.BodegaDataSet.Historial_InvenDataTable">
+<summary>
+Represents the strongly named DataTable class.
+</summary>
+</member>
+<member name="T:IES.BodegaDataSet.Historial_PrestamosDataTable">
+<summary>
+Represents the strongly named DataTable class.
+</summary>
+</member>
+<member name="T:IES.BodegaDataSet.inventarioAcDataTable">
+<summary>
+Represents the strongly named DataTable class.
+</summary>
+</member>
+<member name="T:IES.BodegaDataSet.inventarioMEDataTable">
+<summary>
+Represents the strongly named DataTable class.
+</summary>
+</member>
+<member name="T:IES.BodegaDataSet.inventarioReDataTable">
+<summary>
+Represents the strongly named DataTable class.
+</summary>
+</member>
+<member name="T:IES.BodegaDataSet.lose_fixDataTable">
+<summary>
+Represents the strongly named DataTable class.
+</summary>
+</member>
+<member name="T:IES.BodegaDataSet.Pre_invAcDataTable">
+<summary>
+Represents the strongly named DataTable class.
+</summary>
+</member>
+<member name="T:IES.BodegaDataSet.Pre_invMEDataTable">
+<summary>
+Represents the strongly named DataTable class.
+</summary>
+</member>
+<member name="T:IES.BodegaDataSet.Pre_invReDataTable">
+<summary>
+Represents the strongly named DataTable class.
+</summary>
+</member>
+<member name="T:IES.BodegaDataSet.Prestamo_EstudianteDataTable">
+<summary>
+Represents the strongly named DataTable class.
+</summary>
+</member>
+<member name="T:IES.BodegaDataSet.Prestamo_ProfesorDataTable">
+<summary>
+Represents the strongly named DataTable class.
+</summary>
+</member>
+<member name="T:IES.BodegaDataSet.PrestamoAnualDataTable">
+<summary>
+Represents the strongly named DataTable class.
+</summary>
+</member>
+<member name="T:IES.BodegaDataSet.PRESTAMOEXPIRADODataTable">
+<summary>
+Represents the strongly named DataTable class.
+</summary>
+</member>
+<member name="T:IES.BodegaDataSet.profesorDataTable">
+<summary>
+Represents the strongly named DataTable class.
+</summary>
+</member>
+<member name="T:IES.BodegaDataSet.usuariosDataTable">
+<summary>
+Represents the strongly named DataTable class.
+</summary>
+</member>
+<member name="T:IES.BodegaDataSet.View_InerAcDataTable">
+<summary>
+Represents the strongly named DataTable class.
+</summary>
+</member>
+<member name="T:IES.BodegaDataSet.View_InerMEDataTable">
+<summary>
+Represents the strongly named DataTable class.
+</summary>
+</member>
+<member name="T:IES.BodegaDataSet.View_InerReDataTable">
+<summary>
+Represents the strongly named DataTable class.
+</summary>
+</member>
+<member name="T:IES.BodegaDataSet.View_PrestamoAnualDataTable">
+<summary>
+Represents the strongly named DataTable class.
+</summary>
+</member>
+<member name="T:IES.BodegaDataSet.View_PrestamoEStudDataTable">
+<summary>
+Represents the strongly named DataTable class.
+</summary>
+</member>
+<member name="T:IES.BodegaDataSet.View_PrestamoPRoDataTable">
+<summary>
+Represents the strongly named DataTable class.
+</summary>
+</member>
+<member name="T:IES.BodegaDataSet.View_Solven_EstudianteDataTable">
+<summary>
+Represents the strongly named DataTable class.
+</summary>
+</member>
+<member name="T:IES.BodegaDataSet.View_Solven_ProfesorDataTable">
+<summary>
+Represents the strongly named DataTable class.
+</summary>
+</member>
+<member name="T:IES.BodegaDataSet.REPORTAnualInstructorDataTable">
+<summary>
+Represents the strongly named DataTable class.
+</summary>
+</member>
+<member name="T:IES.BodegaDataSet.REPORTEInvenMalEstadoDataTable">
+<summary>
+Represents the strongly named DataTable class.
+</summary>
+</member>
+<member name="T:IES.BodegaDataSet.REPORTELoseFixDataTable">
+<summary>
+Represents the strongly named DataTable class.
+</summary>
+</member>
+<member name="T:IES.BodegaDataSet.REPORTEPrestamoExpiradoDataTable">
+<summary>
+Represents the strongly named DataTable class.
+</summary>
+</member>
+<member name="T:IES.BodegaDataSet.REPORTESolvenciaEstudianteDataTable">
+<summary>
+Represents the strongly named DataTable class.
+</summary>
+</member>
+<member name="T:IES.BodegaDataSet.REPORTESolvenciaProfesorDataTable">
+<summary>
+Represents the strongly named DataTable class.
+</summary>
+</member>
+<member name="T:IES.BodegaDataSet.REPORTHistorial_InventarioDataTable">
+<summary>
+Represents the strongly named DataTable class.
+</summary>
+</member>
+<member name="T:IES.BodegaDataSet.REPORTHistorial_PrestamosDataTable">
+<summary>
+Represents the strongly named DataTable class.
+</summary>
+</member>
+<member name="T:IES.BodegaDataSet.REPORTInventarioDataTable">
+<summary>
+Represents the strongly named DataTable class.
+</summary>
+</member>
+<member name="T:IES.BodegaDataSet.REPORTPresEstudianteDataTable">
+<summary>
+Represents the strongly named DataTable class.
+</summary>
+</member>
+<member name="T:IES.BodegaDataSet.REPORTPresProfesorDataTable">
+<summary>
+Represents the strongly named DataTable class.
+</summary>
+</member>
+<member name="T:IES.BodegaDataSet.SolveEstDataTable">
+<summary>
+Represents the strongly named DataTable class.
+</summary>
+</member>
+<member name="T:IES.BodegaDataSet.SolveProDataTable">
+<summary>
+Represents the strongly named DataTable class.
+</summary>
+</member>
+<member name="T:IES.BodegaDataSet.CorreoElectronicoRow">
+<summary>
+Represents strongly named DataRow class.
+</summary>
+</member>
+<member name="T:IES.BodegaDataSet.est_pres_estRow">
+<summary>
+Represents strongly named DataRow class.
+</summary>
+</member>
+<member name="T:IES.BodegaDataSet.est_pres_proRow">
+<summary>
+Represents strongly named DataRow class.
+</summary>
+</member>
+<member name="T:IES.BodegaDataSet.estado_invAcRow">
+<summary>
+Represents strongly named DataRow class.
+</summary>
+</member>
+<member name="T:IES.BodegaDataSet.estado_invMERow">
+<summary>
+Represents strongly named DataRow class.
+</summary>
+</member>
+<member name="T:IES.BodegaDataSet.estado_invReRow">
+<summary>
+Represents strongly named DataRow class.
+</summary>
+</member>
+<member name="T:IES.BodegaDataSet.estadoAnualRow">
+<summary>
+Represents strongly named DataRow class.
+</summary>
+</member>
+<member name="T:IES.BodegaDataSet.estudianteRow">
+<summary>
+Represents strongly named DataRow class.
+</summary>
+</member>
+<member name="T:IES.BodegaDataSet.Historial_InvenRow">
+<summary>
+Represents strongly named DataRow class.
+</summary>
+</member>
+<member name="T:IES.BodegaDataSet.Historial_PrestamosRow">
+<summary>
+Represents strongly named DataRow class.
+</summary>
+</member>
+<member name="T:IES.BodegaDataSet.inventarioAcRow">
+<summary>
+Represents strongly named DataRow class.
+</summary>
+</member>
+<member name="T:IES.BodegaDataSet.inventarioMERow">
+<summary>
+Represents strongly named DataRow class.
+</summary>
+</member>
+<member name="T:IES.BodegaDataSet.inventarioReRow">
+<summary>
+Represents strongly named DataRow class.
+</summary>
+</member>
+<member name="T:IES.BodegaDataSet.lose_fixRow">
+<summary>
+Represents strongly named DataRow class.
+</summary>
+</member>
+<member name="T:IES.BodegaDataSet.Pre_invAcRow">
+<summary>
+Represents strongly named DataRow class.
+</summary>
+</member>
+<member name="T:IES.BodegaDataSet.Pre_invMERow">
+<summary>
+Represents strongly named DataRow class.
+</summary>
+</member>
+<member name="T:IES.BodegaDataSet.Pre_invReRow">
+<summary>
+Represents strongly named DataRow class.
+</summary>
+</member>
+<member name="T:IES.BodegaDataSet.Prestamo_EstudianteRow">
+<summary>
+Represents strongly named DataRow class.
+</summary>
+</member>
+<member name="T:IES.BodegaDataSet.Prestamo_ProfesorRow">
+<summary>
+Represents strongly named DataRow class.
+</summary>
+</member>
+<member name="T:IES.BodegaDataSet.PrestamoAnualRow">
+<summary>
+Represents strongly named DataRow class.
+</summary>
+</member>
+<member name="T:IES.BodegaDataSet.PRESTAMOEXPIRADORow">
+<summary>
+Represents strongly named DataRow class.
+</summary>
+</member>
+<member name="T:IES.BodegaDataSet.profesorRow">
+<summary>
+Represents strongly named DataRow class.
+</summary>
+</member>
+<member name="T:IES.BodegaDataSet.usuariosRow">
+<summary>
+Represents strongly named DataRow class.
+</summary>
+</member>
+<member name="T:IES.BodegaDataSet.View_InerAcRow">
+<summary>
+Represents strongly named DataRow class.
+</summary>
+</member>
+<member name="T:IES.BodegaDataSet.View_InerMERow">
+<summary>
+Represents strongly named DataRow class.
+</summary>
+</member>
+<member name="T:IES.BodegaDataSet.View_InerReRow">
+<summary>
+Represents strongly named DataRow class.
+</summary>
+</member>
+<member name="T:IES.BodegaDataSet.View_PrestamoAnualRow">
+<summary>
+Represents strongly named DataRow class.
+</summary>
+</member>
+<member name="T:IES.BodegaDataSet.View_PrestamoEStudRow">
+<summary>
+Represents strongly named DataRow class.
+</summary>
+</member>
+<member name="T:IES.BodegaDataSet.View_PrestamoPRoRow">
+<summary>
+Represents strongly named DataRow class.
+</summary>
+</member>
+<member name="T:IES.BodegaDataSet.View_Solven_EstudianteRow">
+<summary>
+Represents strongly named DataRow class.
+</summary>
+</member>
+<member name="T:IES.BodegaDataSet.View_Solven_ProfesorRow">
+<summary>
+Represents strongly named DataRow class.
+</summary>
+</member>
+<member name="T:IES.BodegaDataSet.REPORTAnualInstructorRow">
+<summary>
+Represents strongly named DataRow class.
+</summary>
+</member>
+<member name="T:IES.BodegaDataSet.REPORTEInvenMalEstadoRow">
+<summary>
+Represents strongly named DataRow class.
+</summary>
+</member>
+<member name="T:IES.BodegaDataSet.REPORTELoseFixRow">
+<summary>
+Represents strongly named DataRow class.
+</summary>
+</member>
+<member name="T:IES.BodegaDataSet.REPORTEPrestamoExpiradoRow">
+<summary>
+Represents strongly named DataRow class.
+</summary>
+</member>
+<member name="T:IES.BodegaDataSet.REPORTESolvenciaEstudianteRow">
+<summary>
+Represents strongly named DataRow class.
+</summary>
+</member>
+<member name="T:IES.BodegaDataSet.REPORTESolvenciaProfesorRow">
+<summary>
+Represents strongly named DataRow class.
+</summary>
+</member>
+<member name="T:IES.BodegaDataSet.REPORTHistorial_InventarioRow">
+<summary>
+Represents strongly named DataRow class.
+</summary>
+</member>
+<member name="T:IES.BodegaDataSet.REPORTHistorial_PrestamosRow">
+<summary>
+Represents strongly named DataRow class.
+</summary>
+</member>
+<member name="T:IES.BodegaDataSet.REPORTInventarioRow">
+<summary>
+Represents strongly named DataRow class.
+</summary>
+</member>
+<member name="T:IES.BodegaDataSet.REPORTPresEstudianteRow">
+<summary>
+Represents strongly named DataRow class.
+</summary>
+</member>
+<member name="T:IES.BodegaDataSet.REPORTPresProfesorRow">
+<summary>
+Represents strongly named DataRow class.
+</summary>
+</member>
+<member name="T:IES.BodegaDataSet.SolveEstRow">
+<summary>
+Represents strongly named DataRow class.
+</summary>
+</member>
+<member name="T:IES.BodegaDataSet.SolveProRow">
+<summary>
+Represents strongly named DataRow class.
+</summary>
+</member>
+<member name="T:IES.BodegaDataSet.CorreoElectronicoRowChangeEvent">
+<summary>
+Row event argument class
+</summary>
+</member>
+<member name="T:IES.BodegaDataSet.est_pres_estRowChangeEvent">
+<summary>
+Row event argument class
+</summary>
+</member>
+<member name="T:IES.BodegaDataSet.est_pres_proRowChangeEvent">
+<summary>
+Row event argument class
+</summary>
+</member>
+<member name="T:IES.BodegaDataSet.estado_invAcRowChangeEvent">
+<summary>
+Row event argument class
+</summary>
+</member>
+<member name="T:IES.BodegaDataSet.estado_invMERowChangeEvent">
+<summary>
+Row event argument class
+</summary>
+</member>
+<member name="T:IES.BodegaDataSet.estado_invReRowChangeEvent">
+<summary>
+Row event argument class
+</summary>
+</member>
+<member name="T:IES.BodegaDataSet.estadoAnualRowChangeEvent">
+<summary>
+Row event argument class
+</summary>
+</member>
+<member name="T:IES.BodegaDataSet.estudianteRowChangeEvent">
+<summary>
+Row event argument class
+</summary>
+</member>
+<member name="T:IES.BodegaDataSet.Historial_InvenRowChangeEvent">
+<summary>
+Row event argument class
+</summary>
+</member>
+<member name="T:IES.BodegaDataSet.Historial_PrestamosRowChangeEvent">
+<summary>
+Row event argument class
+</summary>
+</member>
+<member name="T:IES.BodegaDataSet.inventarioAcRowChangeEvent">
+<summary>
+Row event argument class
+</summary>
+</member>
+<member name="T:IES.BodegaDataSet.inventarioMERowChangeEvent">
+<summary>
+Row event argument class
+</summary>
+</member>
+<member name="T:IES.BodegaDataSet.inventarioReRowChangeEvent">
+<summary>
+Row event argument class
+</summary>
+</member>
+<member name="T:IES.BodegaDataSet.lose_fixRowChangeEvent">
+<summary>
+Row event argument class
+</summary>
+</member>
+<member name="T:IES.BodegaDataSet.Pre_invAcRowChangeEvent">
+<summary>
+Row event argument class
+</summary>
+</member>
+<member name="T:IES.BodegaDataSet.Pre_invMERowChangeEvent">
+<summary>
+Row event argument class
+</summary>
+</member>
+<member name="T:IES.BodegaDataSet.Pre_invReRowChangeEvent">
+<summary>
+Row event argument class
+</summary>
+</member>
+<member name="T:IES.BodegaDataSet.Prestamo_EstudianteRowChangeEvent">
+<summary>
+Row event argument class
+</summary>
+</member>
+<member name="T:IES.BodegaDataSet.Prestamo_ProfesorRowChangeEvent">
+<summary>
+Row event argument class
+</summary>
+</member>
+<member name="T:IES.BodegaDataSet.PrestamoAnualRowChangeEvent">
+<summary>
+Row event argument class
+</summary>
+</member>
+<member name="T:IES.BodegaDataSet.PRESTAMOEXPIRADORowChangeEvent">
+<summary>
+Row event argument class
+</summary>
+</member>
+<member name="T:IES.BodegaDataSet.profesorRowChangeEvent">
+<summary>
+Row event argument class
+</summary>
+</member>
+<member name="T:IES.BodegaDataSet.usuariosRowChangeEvent">
+<summary>
+Row event argument class
+</summary>
+</member>
+<member name="T:IES.BodegaDataSet.View_InerAcRowChangeEvent">
+<summary>
+Row event argument class
+</summary>
+</member>
+<member name="T:IES.BodegaDataSet.View_InerMERowChangeEvent">
+<summary>
+Row event argument class
+</summary>
+</member>
+<member name="T:IES.BodegaDataSet.View_InerReRowChangeEvent">
+<summary>
+Row event argument class
+</summary>
+</member>
+<member name="T:IES.BodegaDataSet.View_PrestamoAnualRowChangeEvent">
+<summary>
+Row event argument class
+</summary>
+</member>
+<member name="T:IES.BodegaDataSet.View_PrestamoEStudRowChangeEvent">
+<summary>
+Row event argument class
+</summary>
+</member>
+<member name="T:IES.BodegaDataSet.View_PrestamoPRoRowChangeEvent">
+<summary>
+Row event argument class
+</summary>
+</member>
+<member name="T:IES.BodegaDataSet.View_Solven_EstudianteRowChangeEvent">
+<summary>
+Row event argument class
+</summary>
+</member>
+<member name="T:IES.BodegaDataSet.View_Solven_ProfesorRowChangeEvent">
+<summary>
+Row event argument class
+</summary>
+</member>
+<member name="T:IES.BodegaDataSet.REPORTAnualInstructorRowChangeEvent">
+<summary>
+Row event argument class
+</summary>
+</member>
+<member name="T:IES.BodegaDataSet.REPORTEInvenMalEstadoRowChangeEvent">
+<summary>
+Row event argument class
+</summary>
+</member>
+<member name="T:IES.BodegaDataSet.REPORTELoseFixRowChangeEvent">
+<summary>
+Row event argument class
+</summary>
+</member>
+<member name="T:IES.BodegaDataSet.REPORTEPrestamoExpiradoRowChangeEvent">
+<summary>
+Row event argument class
+</summary>
+</member>
+<member name="T:IES.BodegaDataSet.REPORTESolvenciaEstudianteRowChangeEvent">
+<summary>
+Row event argument class
+</summary>
+</member>
+<member name="T:IES.BodegaDataSet.REPORTESolvenciaProfesorRowChangeEvent">
+<summary>
+Row event argument class
+</summary>
+</member>
+<member name="T:IES.BodegaDataSet.REPORTHistorial_InventarioRowChangeEvent">
+<summary>
+Row event argument class
+</summary>
+</member>
+<member name="T:IES.BodegaDataSet.REPORTHistorial_PrestamosRowChangeEvent">
+<summary>
+Row event argument class
+</summary>
+</member>
+<member name="T:IES.BodegaDataSet.REPORTInventarioRowChangeEvent">
+<summary>
+Row event argument class
+</summary>
+</member>
+<member name="T:IES.BodegaDataSet.REPORTPresEstudianteRowChangeEvent">
+<summary>
+Row event argument class
+</summary>
+</member>
+<member name="T:IES.BodegaDataSet.REPORTPresProfesorRowChangeEvent">
+<summary>
+Row event argument class
+</summary>
+</member>
+<member name="T:IES.BodegaDataSet.SolveEstRowChangeEvent">
+<summary>
+Row event argument class
+</summary>
+</member>
+<member name="T:IES.BodegaDataSet.SolveProRowChangeEvent">
+<summary>
+Row event argument class
+</summary>
+</member>
+<member name="T:IES.BodegaDataSetTableAdapters.CorreoElectronicoTableAdapter">
+<summary>
+Represents the connection and commands used to retrieve and save data.
+</summary>
+</member>
+<member name="T:IES.BodegaDataSetTableAdapters.est_pres_estTableAdapter">
+<summary>
+Represents the connection and commands used to retrieve and save data.
+</summary>
+</member>
+<member name="T:IES.BodegaDataSetTableAdapters.est_pres_proTableAdapter">
+<summary>
+Represents the connection and commands used to retrieve and save data.
+</summary>
+</member>
+<member name="T:IES.BodegaDataSetTableAdapters.estado_invAcTableAdapter">
+<summary>
+Represents the connection and commands used to retrieve and save data.
+</summary>
+</member>
+<member name="T:IES.BodegaDataSetTableAdapters.estado_invMETableAdapter">
+<summary>
+Represents the connection and commands used to retrieve and save data.
+</summary>
+</member>
+<member name="T:IES.BodegaDataSetTableAdapters.estado_invReTableAdapter">
+<summary>
+Represents the connection and commands used to retrieve and save data.
+</summary>
+</member>
+<member name="T:IES.BodegaDataSetTableAdapters.estadoAnualTableAdapter">
+<summary>
+Represents the connection and commands used to retrieve and save data.
+</summary>
+</member>
+<member name="T:IES.BodegaDataSetTableAdapters.estudianteTableAdapter">
+<summary>
+Represents the connection and commands used to retrieve and save data.
+</summary>
+</member>
+<member name="T:IES.BodegaDataSetTableAdapters.Historial_InvenTableAdapter">
+<summary>
+Represents the connection and commands used to retrieve and save data.
+</summary>
+</member>
+<member name="T:IES.BodegaDataSetTableAdapters.Historial_PrestamosTableAdapter">
+<summary>
+Represents the connection and commands used to retrieve and save data.
+</summary>
+</member>
+<member name="T:IES.BodegaDataSetTableAdapters.inventarioAcTableAdapter">
+<summary>
+Represents the connection and commands used to retrieve and save data.
+</summary>
+</member>
+<member name="T:IES.BodegaDataSetTableAdapters.inventarioMETableAdapter">
+<summary>
+Represents the connection and commands used to retrieve and save data.
+</summary>
+</member>
+<member name="T:IES.BodegaDataSetTableAdapters.inventarioReTableAdapter">
+<summary>
+Represents the connection and commands used to retrieve and save data.
+</summary>
+</member>
+<member name="T:IES.BodegaDataSetTableAdapters.lose_fixTableAdapter">
+<summary>
+Represents the connection and commands used to retrieve and save data.
+</summary>
+</member>
+<member name="T:IES.BodegaDataSetTableAdapters.Pre_invAcTableAdapter">
+<summary>
+Represents the connection and commands used to retrieve and save data.
+</summary>
+</member>
+<member name="T:IES.BodegaDataSetTableAdapters.Pre_invMETableAdapter">
+<summary>
+Represents the connection and commands used to retrieve and save data.
+</summary>
+</member>
+<member name="T:IES.BodegaDataSetTableAdapters.Pre_invReTableAdapter">
+<summary>
+Represents the connection and commands used to retrieve and save data.
+</summary>
+</member>
+<member name="T:IES.BodegaDataSetTableAdapters.Prestamo_EstudianteTableAdapter">
+<summary>
+Represents the connection and commands used to retrieve and save data.
+</summary>
+</member>
+<member name="T:IES.BodegaDataSetTableAdapters.Prestamo_ProfesorTableAdapter">
+<summary>
+Represents the connection and commands used to retrieve and save data.
+</summary>
+</member>
+<member name="T:IES.BodegaDataSetTableAdapters.PrestamoAnualTableAdapter">
+<summary>
+Represents the connection and commands used to retrieve and save data.
+</summary>
+</member>
+<member name="T:IES.BodegaDataSetTableAdapters.PRESTAMOEXPIRADOTableAdapter">
+<summary>
+Represents the connection and commands used to retrieve and save data.
+</summary>
+</member>
+<member name="T:IES.BodegaDataSetTableAdapters.profesorTableAdapter">
+<summary>
+Represents the connection and commands used to retrieve and save data.
+</summary>
+</member>
+<member name="T:IES.BodegaDataSetTableAdapters.usuariosTableAdapter">
+<summary>
+Represents the connection and commands used to retrieve and save data.
+</summary>
+</member>
+<member name="T:IES.BodegaDataSetTableAdapters.View_InerAcTableAdapter">
+<summary>
+Represents the connection and commands used to retrieve and save data.
+</summary>
+</member>
+<member name="T:IES.BodegaDataSetTableAdapters.View_InerMETableAdapter">
+<summary>
+Represents the connection and commands used to retrieve and save data.
+</summary>
+</member>
+<member name="T:IES.BodegaDataSetTableAdapters.View_InerReTableAdapter">
+<summary>
+Represents the connection and commands used to retrieve and save data.
+</summary>
+</member>
+<member name="T:IES.BodegaDataSetTableAdapters.View_PrestamoAnualTableAdapter">
+<summary>
+Represents the connection and commands used to retrieve and save data.
+</summary>
+</member>
+<member name="T:IES.BodegaDataSetTableAdapters.View_PrestamoEStudTableAdapter">
+<summary>
+Represents the connection and commands used to retrieve and save data.
+</summary>
+</member>
+<member name="T:IES.BodegaDataSetTableAdapters.View_PrestamoPRoTableAdapter">
+<summary>
+Represents the connection and commands used to retrieve and save data.
+</summary>
+</member>
+<member name="T:IES.BodegaDataSetTableAdapters.View_Solven_EstudianteTableAdapter">
+<summary>
+Represents the connection and commands used to retrieve and save data.
+</summary>
+</member>
+<member name="T:IES.BodegaDataSetTableAdapters.View_Solven_ProfesorTableAdapter">
+<summary>
+Represents the connection and commands used to retrieve and save data.
+</summary>
+</member>
+<member name="T:IES.BodegaDataSetTableAdapters.REPORTAnualInstructorTableAdapter">
+<summary>
+Represents the connection and commands used to retrieve and save data.
+</summary>
+</member>
+<member name="T:IES.BodegaDataSetTableAdapters.REPORTEInvenMalEstadoTableAdapter">
+<summary>
+Represents the connection and commands used to retrieve and save data.
+</summary>
+</member>
+<member name="T:IES.BodegaDataSetTableAdapters.REPORTELoseFixTableAdapter">
+<summary>
+Represents the connection and commands used to retrieve and save data.
+</summary>
+</member>
+<member name="T:IES.BodegaDataSetTableAdapters.REPORTEPrestamoExpiradoTableAdapter">
+<summary>
+Represents the connection and commands used to retrieve and save data.
+</summary>
+</member>
+<member name="T:IES.BodegaDataSetTableAdapters.REPORTESolvenciaEstudianteTableAdapter">
+<summary>
+Represents the connection and commands used to retrieve and save data.
+</summary>
+</member>
+<member name="T:IES.BodegaDataSetTableAdapters.REPORTESolvenciaProfesorTableAdapter">
+<summary>
+Represents the connection and commands used to retrieve and save data.
+</summary>
+</member>
+<member name="T:IES.BodegaDataSetTableAdapters.REPORTHistorial_InventarioTableAdapter">
+<summary>
+Represents the connection and commands used to retrieve and save data.
+</summary>
+</member>
+<member name="T:IES.BodegaDataSetTableAdapters.REPORTHistorial_PrestamosTableAdapter">
+<summary>
+Represents the connection and commands used to retrieve and save data.
+</summary>
+</member>
+<member name="T:IES.BodegaDataSetTableAdapters.REPORTInventarioTableAdapter">
+<summary>
+Represents the connection and commands used to retrieve and save data.
+</summary>
+</member>
+<member name="T:IES.BodegaDataSetTableAdapters.REPORTPresEstudianteTableAdapter">
+<summary>
+Represents the connection and commands used to retrieve and save data.
+</summary>
+</member>
+<member name="T:IES.BodegaDataSetTableAdapters.REPORTPresProfesorTableAdapter">
+<summary>
+Represents the connection and commands used to retrieve and save data.
+</summary>
+</member>
+<member name="T:IES.BodegaDataSetTableAdapters.SolveEstTableAdapter">
+<summary>
+Represents the connection and commands used to retrieve and save data.
+</summary>
+</member>
+<member name="T:IES.BodegaDataSetTableAdapters.SolveProTableAdapter">
+<summary>
+Represents the connection and commands used to retrieve and save data.
+</summary>
+</member>
+<member name="T:IES.BodegaDataSetTableAdapters.QueriesTableAdapter">
+<summary>
+Represents the connection and commands used to retrieve and save data.
+</summary>
+</member>
+<member name="T:IES.BodegaDataSetTableAdapters.TableAdapterManager">
+<summary>
+TableAdapterManager is used to coordinate TableAdapters in the dataset to enable Hierarchical Update scenarios
+</summary>
+</member>
+<member name="M:IES.BodegaDataSetTableAdapters.TableAdapterManager.UpdateUpdatedRows(IES.BodegaDataSet,System.Collections.Generic.List{System.Data.DataRow},System.Collections.Generic.List{System.Data.DataRow})">
+<summary>
+Update rows in top-down order.
+</summary>
+</member>
+<member name="M:IES.BodegaDataSetTableAdapters.TableAdapterManager.UpdateInsertedRows(IES.BodegaDataSet,System.Collections.Generic.List{System.Data.DataRow})">
+<summary>
+Insert rows in top-down order.
+</summary>
+</member>
+<member name="M:IES.BodegaDataSetTableAdapters.TableAdapterManager.UpdateDeletedRows(IES.BodegaDataSet,System.Collections.Generic.List{System.Data.DataRow})">
+<summary>
+Delete rows in bottom-up order.
+</summary>
+</member>
+<member name="M:IES.BodegaDataSetTableAdapters.TableAdapterManager.GetRealUpdatedRows(System.Data.DataRow[],System.Collections.Generic.List{System.Data.DataRow})">
+<summary>
+Remove inserted rows that become updated rows after calling TableAdapter.Update(inserted rows) first
+</summary>
+</member>
+<member name="M:IES.BodegaDataSetTableAdapters.TableAdapterManager.UpdateAll(IES.BodegaDataSet)">
+<summary>
+Update all changes to the dataset.
+</summary>
+</member>
+<member name="T:IES.BodegaDataSetTableAdapters.TableAdapterManager.UpdateOrderOption">
+<summary>
+Update Order Option
+</summary>
+</member>
+<member name="T:IES.BodegaDataSetTableAdapters.TableAdapterManager.SelfReferenceComparer">
+<summary>
+Used to sort self-referenced table's rows
+</summary>
+</member>
+</members>
+</doc>
