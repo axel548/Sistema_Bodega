@@ -1,6 +1,6 @@
-# Sistema Bodega
+# Warehouse System
 
-> Sistema Bodega
+> This is a system developed for the control of a winery
 
 ### Built with:
 
